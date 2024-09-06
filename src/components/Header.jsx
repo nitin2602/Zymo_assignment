@@ -18,7 +18,7 @@ const Header = () => {
 
   return (
     <header className="bg-white shadow-md w-full lg:fixed z-50 ">
-      <div className="max-w-7xl  px-4 sm:px-6 lg:px-8">
+      <div className="w-full  px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between items-center py-4">
           <div className="flex items-center space-x-2">
             <img src="Zymo_header_Logo.png" alt="Zymo Logo" className="h-10" />
